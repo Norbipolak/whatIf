@@ -72,6 +72,8 @@ for (const movie of myFavMovies) {
     }
 console.log(newestMovie.title)
 
+//stars by movies 
+
 let starByMovies = ''
 for (const movie of myFavMovies){
     starByMovies += movie.title + "\n"
