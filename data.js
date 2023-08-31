@@ -50,7 +50,7 @@ for (const movie of myFavMovies) {
     console.log(myFavMovies[i].title);
 }
 
-// averate rate
+// average rate
 
 let totalRate = 0 
 
